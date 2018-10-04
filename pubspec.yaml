@@ -28,8 +28,7 @@ dependencies:
   # http package to handle ajax request
   # https://pub.dartlang.org/packages/http
   # https://github.com/dart-lang/http
-  http: ^0.11.3+17
-  
+  http: ^0.12.0
 
 dev_dependencie:
   flutter_test:
